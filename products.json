@@ -1,0 +1,293 @@
+{
+
+  "produto1": {
+    "id": "1",
+    "catId": "1",
+    "subCat":"1",
+    "subCatNome":"- Roupas",
+    "nome": "Roupa Feminina 1",
+    "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet volutpat velit eget sagittis. Aenean sagittis, dui et vulputate facilisis, nisl enim fringilla mauris, sed accumsan eros tellus in elit. In vel porta erat. Curabitur eget elit eu sapien egestas convallis vitae at dui. Maecenas eget velit in velit vulputate tristique. Proin scelerisque dolor ac purus facilisis elementum eu in massa. Maecenas viverra enim in dolor condimentum feugiat.",
+    "preco": "10,00",
+    "img1":"camiseta.jpeg",
+    "img2":"camiseta4.jpg"
+  },
+  
+  "produto2": {
+    "id": "2",
+    "catId": "1",
+    "subCat":"1",
+    "subCatNome":"- Roupas",
+    "nome": "Roupa Feminina 2",
+    "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet volutpat velit eget sagittis. Aenean sagittis, dui et vulputate facilisis, nisl enim fringilla mauris, sed accumsan eros tellus in elit. In vel porta erat. Curabitur eget elit eu sapien egestas convallis vitae at dui. Maecenas eget velit in velit vulputate tristique. Proin scelerisque dolor ac purus facilisis elementum eu in massa. Maecenas viverra enim in dolor condimentum feugiat.",
+    "preco": "20,00",
+    "img1":"camiseta.jpeg",
+    "img2":"camiseta4.jpg"
+  },
+
+  "produto3": {
+    "id": "3",
+    "catId": "1",
+    "subCat":"1",
+    "subCatNome":"- Roupas",
+    "nome": "Roupa Feminina 3",
+    "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet volutpat velit eget sagittis. Aenean sagittis, dui et vulputate facilisis, nisl enim fringilla mauris, sed accumsan eros tellus in elit. In vel porta erat. Curabitur eget elit eu sapien egestas convallis vitae at dui. Maecenas eget velit in velit vulputate tristique. Proin scelerisque dolor ac purus facilisis elementum eu in massa. Maecenas viverra enim in dolor condimentum feugiat.",
+    "preco": "30,00",
+    "img1":"camiseta.jpeg",
+    "img2":"camiseta4.jpg"
+  },
+  
+  "produto4": {
+    "id": "4",
+    "catId": "1",
+    "subCat":"1",
+    "subCatNome":"- Roupas",
+    "nome": "Roupa Feminina 4",
+    "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet volutpat velit eget sagittis. Aenean sagittis, dui et vulputate facilisis, nisl enim fringilla mauris, sed accumsan eros tellus in elit. In vel porta erat. Curabitur eget elit eu sapien egestas convallis vitae at dui. Maecenas eget velit in velit vulputate tristique. Proin scelerisque dolor ac purus facilisis elementum eu in massa. Maecenas viverra enim in dolor condimentum feugiat.",
+    "preco": "40,00",
+    "img1":"camiseta.jpeg",
+    "img2":"camiseta4.jpg"
+  },
+
+  "produto5": {
+    "id": "5",
+    "catId": "1",
+    "subCat":"2",
+    "subCatNome":"- Sapatos",
+    "nome": "Sapato Feminina 1",
+    "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet volutpat velit eget sagittis. Aenean sagittis, dui et vulputate facilisis, nisl enim fringilla mauris, sed accumsan eros tellus in elit. In vel porta erat. Curabitur eget elit eu sapien egestas convallis vitae at dui. Maecenas eget velit in velit vulputate tristique. Proin scelerisque dolor ac purus facilisis elementum eu in massa. Maecenas viverra enim in dolor condimentum feugiat.",
+    "preco": "10,00",
+    "img1":"sapato.jpg",
+    "img2":"sapato3.jpg"
+  },
+  
+  "produto6": {
+    "id": "6",
+    "catId": "1",
+    "subCat":"2",
+    "subCatNome":"- Sapatos",
+    "nome": "Sapato Feminina 2",
+    "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet volutpat velit eget sagittis. Aenean sagittis, dui et vulputate facilisis, nisl enim fringilla mauris, sed accumsan eros tellus in elit. In vel porta erat. Curabitur eget elit eu sapien egestas convallis vitae at dui. Maecenas eget velit in velit vulputate tristique. Proin scelerisque dolor ac purus facilisis elementum eu in massa. Maecenas viverra enim in dolor condimentum feugiat.",
+    "preco": "20,00",
+    "img1":"sapato.jpg",
+    "img2":"sapato3.jpg"
+  },
+
+  "produto7": {
+    "id": "7",
+    "catId": "1",
+    "subCat":"2",
+    "subCatNome":"- Sapatos",
+    "nome": "Sapato Feminina 3",
+    "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet volutpat velit eget sagittis. Aenean sagittis, dui et vulputate facilisis, nisl enim fringilla mauris, sed accumsan eros tellus in elit. In vel porta erat. Curabitur eget elit eu sapien egestas convallis vitae at dui. Maecenas eget velit in velit vulputate tristique. Proin scelerisque dolor ac purus facilisis elementum eu in massa. Maecenas viverra enim in dolor condimentum feugiat.",
+    "preco": "30,00",
+    "img1":"sapato.jpg",
+    "img2":"sapato3.jpg"
+  },
+  
+  "produto8": {
+    "id": "8",
+    "catId": "1",
+    "subCat":"2",
+    "subCatNome":"- Sapatos",
+    "nome": "Sapato Feminina 4",
+    "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet volutpat velit eget sagittis. Aenean sagittis, dui et vulputate facilisis, nisl enim fringilla mauris, sed accumsan eros tellus in elit. In vel porta erat. Curabitur eget elit eu sapien egestas convallis vitae at dui. Maecenas eget velit in velit vulputate tristique. Proin scelerisque dolor ac purus facilisis elementum eu in massa. Maecenas viverra enim in dolor condimentum feugiat.",
+    "preco": "40,00",
+    "img1":"sapato.jpg",
+    "img2":"sapato3.jpg"
+
+  },
+
+  "produto9": {
+    "id": "9",
+    "catId": "2",
+    "subCat":"1",
+    "subCatNome":"- Roupas",
+    "nome": "Roupa Masculina 1",
+    "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet volutpat velit eget sagittis. Aenean sagittis, dui et vulputate facilisis, nisl enim fringilla mauris, sed accumsan eros tellus in elit. In vel porta erat. Curabitur eget elit eu sapien egestas convallis vitae at dui. Maecenas eget velit in velit vulputate tristique. Proin scelerisque dolor ac purus facilisis elementum eu in massa. Maecenas viverra enim in dolor condimentum feugiat.",
+    "preco": "10,00",
+    "img1":"camiseta2.jpg",
+    "img2":"camiseta3.jpg"
+  },
+  
+  "produto10": {
+    "id": "10",
+    "catId": "2",
+    "subCat":"1",
+    "subCatNome":"- Roupas",
+    "nome": "Roupa Masculino 2",
+    "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet volutpat velit eget sagittis. Aenean sagittis, dui et vulputate facilisis, nisl enim fringilla mauris, sed accumsan eros tellus in elit. In vel porta erat. Curabitur eget elit eu sapien egestas convallis vitae at dui. Maecenas eget velit in velit vulputate tristique. Proin scelerisque dolor ac purus facilisis elementum eu in massa. Maecenas viverra enim in dolor condimentum feugiat.",
+    "preco": "20,00",
+    "img1":"camiseta2.jpg",
+    "img2":"camiseta3.jpg"
+  },
+
+  "produto11": {
+    "id": "11",
+    "catId": "2",
+    "subCat":"1",
+    "subCatNome":"- Roupas",
+    "nome": "Roupa Masculina 3",
+    "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet volutpat velit eget sagittis. Aenean sagittis, dui et vulputate facilisis, nisl enim fringilla mauris, sed accumsan eros tellus in elit. In vel porta erat. Curabitur eget elit eu sapien egestas convallis vitae at dui. Maecenas eget velit in velit vulputate tristique. Proin scelerisque dolor ac purus facilisis elementum eu in massa. Maecenas viverra enim in dolor condimentum feugiat.",
+    "preco": "30,00",
+    "img1":"camiseta2.jpg",
+    "img2":"camiseta3.jpg"
+  },
+  
+  "produto12": {
+    "id": "12",
+    "catId": "2",
+    "subCat":"1",
+    "subCatNome":"- Roupas",
+    "nome": "Roupa Masculina 4",
+    "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet volutpat velit eget sagittis. Aenean sagittis, dui et vulputate facilisis, nisl enim fringilla mauris, sed accumsan eros tellus in elit. In vel porta erat. Curabitur eget elit eu sapien egestas convallis vitae at dui. Maecenas eget velit in velit vulputate tristique. Proin scelerisque dolor ac purus facilisis elementum eu in massa. Maecenas viverra enim in dolor condimentum feugiat.",
+    "preco": "40,00",
+    "img1":"camiseta2.jpg",
+    "img2":"camiseta3.jpg"
+
+  },
+
+  "produto13": {
+    "id": "13",
+    "catId": "2",
+    "subCat":"2",
+    "subCatNome":"- Sapatos",
+    "nome": "Sapato Masculino 1",
+    "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet volutpat velit eget sagittis. Aenean sagittis, dui et vulputate facilisis, nisl enim fringilla mauris, sed accumsan eros tellus in elit. In vel porta erat. Curabitur eget elit eu sapien egestas convallis vitae at dui. Maecenas eget velit in velit vulputate tristique. Proin scelerisque dolor ac purus facilisis elementum eu in massa. Maecenas viverra enim in dolor condimentum feugiat.",
+    "preco": "10,00",
+    "img1":"sapato2.jpg",
+    "img2":"sapato4.jpg"
+  },
+  
+  "produto14": {
+    "id": "14",
+    "catId": "2",
+    "subCat":"2",
+    "subCatNome":"- Sapatos",
+    "nome": "Sapato Masculino 2",
+    "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet volutpat velit eget sagittis. Aenean sagittis, dui et vulputate facilisis, nisl enim fringilla mauris, sed accumsan eros tellus in elit. In vel porta erat. Curabitur eget elit eu sapien egestas convallis vitae at dui. Maecenas eget velit in velit vulputate tristique. Proin scelerisque dolor ac purus facilisis elementum eu in massa. Maecenas viverra enim in dolor condimentum feugiat.",
+    "preco": "20,00",
+    "img1":"sapato2.jpg",
+    "img2":"sapato4.jpg"
+  },
+
+  "produto15": {
+    "id": "15",
+    "catId": "2",
+    "subCat":"2",
+    "subCatNome":"- Sapatos",
+    "nome": "Sapato Masculino 3",
+    "preco": "30,00",
+    "img1":"sapato2.jpg",
+    "img2":"sapato4.jpg"
+  },
+  
+  "produto16": {
+    "id": "16",
+    "catId": "2",
+    "subCat":"2",
+    "subCatNome":"- Sapatos",
+    "nome": "Sapato Masculino 4",
+    "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet volutpat velit eget sagittis. Aenean sagittis, dui et vulputate facilisis, nisl enim fringilla mauris, sed accumsan eros tellus in elit. In vel porta erat. Curabitur eget elit eu sapien egestas convallis vitae at dui. Maecenas eget velit in velit vulputate tristique. Proin scelerisque dolor ac purus facilisis elementum eu in massa. Maecenas viverra enim in dolor condimentum feugiat.",
+    "preco": "40,00",
+    "img1":"sapato2.jpg",
+    "img2":"sapato4.jpg"
+  },
+
+
+  "produto17": {
+    "id": "17",
+    "catId": "3",
+    "subCat":"1",
+    "subCatNome":"- Roupas",
+    "nome": "Roupa Infantil 1",
+    "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet volutpat velit eget sagittis. Aenean sagittis, dui et vulputate facilisis, nisl enim fringilla mauris, sed accumsan eros tellus in elit. In vel porta erat. Curabitur eget elit eu sapien egestas convallis vitae at dui. Maecenas eget velit in velit vulputate tristique. Proin scelerisque dolor ac purus facilisis elementum eu in massa. Maecenas viverra enim in dolor condimentum feugiat.",
+    "preco": "10,00",
+    "img1":"infantil.jpg",
+    "img2":"infantil2.jpg"
+  },
+  
+  "produto18": {
+    "id": "18",
+    "catId": "3",
+    "subCat":"1",
+    "subCatNome":"- Roupas",
+    "nome": "Roupa Infantil 2",
+    "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet volutpat velit eget sagittis. Aenean sagittis, dui et vulputate facilisis, nisl enim fringilla mauris, sed accumsan eros tellus in elit. In vel porta erat. Curabitur eget elit eu sapien egestas convallis vitae at dui. Maecenas eget velit in velit vulputate tristique. Proin scelerisque dolor ac purus facilisis elementum eu in massa. Maecenas viverra enim in dolor condimentum feugiat.",
+    "preco": "20,00",
+    "img1":"infantil.jpg",
+    "img2":"infantil2.jpg"
+  },
+
+  "produto19": {
+    "id": "19",
+    "catId": "3",
+    "subCat":"1",
+    "subCatNome":"- Roupas",
+    "nome": "Roupa Infantil 3",
+    "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet volutpat velit eget sagittis. Aenean sagittis, dui et vulputate facilisis, nisl enim fringilla mauris, sed accumsan eros tellus in elit. In vel porta erat. Curabitur eget elit eu sapien egestas convallis vitae at dui. Maecenas eget velit in velit vulputate tristique. Proin scelerisque dolor ac purus facilisis elementum eu in massa. Maecenas viverra enim in dolor condimentum feugiat.",
+    "preco": "30,00",
+    "img1":"infantil.jpg",
+    "img2":"infantil2.jpg"
+  },
+  
+  "produto20": {
+    "id": "20",
+    "catId": "3",
+    "subCat":"1",
+    "subCatNome":"- Roupas",
+    "nome": "Roupa Infantil 4",
+    "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet volutpat velit eget sagittis. Aenean sagittis, dui et vulputate facilisis, nisl enim fringilla mauris, sed accumsan eros tellus in elit. In vel porta erat. Curabitur eget elit eu sapien egestas convallis vitae at dui. Maecenas eget velit in velit vulputate tristique. Proin scelerisque dolor ac purus facilisis elementum eu in massa. Maecenas viverra enim in dolor condimentum feugiat.",
+    "preco": "40,00",
+    "img1":"infantil.jpg",
+    "img2":"infantil2.jpg"
+  },
+
+  "produto21": {
+    "id": "21",
+    "catId": "3",
+    "subCat":"2",
+    "subCatNome":"- Sapatos",
+    "nome": "Sapato Infantil 1",
+    "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet volutpat velit eget sagittis. Aenean sagittis, dui et vulputate facilisis, nisl enim fringilla mauris, sed accumsan eros tellus in elit. In vel porta erat. Curabitur eget elit eu sapien egestas convallis vitae at dui. Maecenas eget velit in velit vulputate tristique. Proin scelerisque dolor ac purus facilisis elementum eu in massa. Maecenas viverra enim in dolor condimentum feugiat.",
+    "preco": "10,00",
+    "img1":"infantil2.png",
+    "img2":"infantil4.jpg"
+  },
+  
+  "produto22": {
+    "id": "22",
+    "catId": "3",
+    "subCat":"2",
+    "subCatNome":"- Sapatos",
+    "nome": "Sapato Infantil 2",
+    "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet volutpat velit eget sagittis. Aenean sagittis, dui et vulputate facilisis, nisl enim fringilla mauris, sed accumsan eros tellus in elit. In vel porta erat. Curabitur eget elit eu sapien egestas convallis vitae at dui. Maecenas eget velit in velit vulputate tristique. Proin scelerisque dolor ac purus facilisis elementum eu in massa. Maecenas viverra enim in dolor condimentum feugiat.",
+    "preco": "20,00",
+    "img1":"infantil2.png",
+    "img2":"infantil4.jpg"
+  },
+
+  "produto23": {
+    "id": "23",
+    "catId": "3",
+    "subCat":"2",
+    "subCatNome":"- Sapatos",
+    "nome": "Sapato Infantil 3",
+    "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet volutpat velit eget sagittis. Aenean sagittis, dui et vulputate facilisis, nisl enim fringilla mauris, sed accumsan eros tellus in elit. In vel porta erat. Curabitur eget elit eu sapien egestas convallis vitae at dui. Maecenas eget velit in velit vulputate tristique. Proin scelerisque dolor ac purus facilisis elementum eu in massa. Maecenas viverra enim in dolor condimentum feugiat.",
+    "preco": "30,00",
+    "img1":"infantil2.png",
+    "img2":"infantil4.jpg"
+  },
+  
+  "produto24": {
+    "id": "24",
+    "catId": "3",
+    "subCat":"2",
+    "subCatNome":"- Sapatos",
+    "nome": "Sapato Infantil 4",
+    "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet volutpat velit eget sagittis. Aenean sagittis, dui et vulputate facilisis, nisl enim fringilla mauris, sed accumsan eros tellus in elit. In vel porta erat. Curabitur eget elit eu sapien egestas convallis vitae at dui. Maecenas eget velit in velit vulputate tristique. Proin scelerisque dolor ac purus facilisis elementum eu in massa. Maecenas viverra enim in dolor condimentum feugiat.",
+    "preco": "40,00",
+    "img1":"infantil2.png",
+    "img2":"infantil4.jpg"
+  }
+
+}
