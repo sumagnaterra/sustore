@@ -1,4 +1,5 @@
 # Sustore
+
 Projeto desenvolvido para o processo seletivo da Ciandt.
 
 Foi utilizado HTML5, CSS3, Bootstrap e Leitura de JSon através da biblioteca Jquery.
@@ -11,4 +12,6 @@ Su Store possui um design que se adequa a seus dispositivos móveis.
 O projeto pode ser executado em qualquer servidor sem nenhum tipo de modificação, desde que seja pelos protocolos HTTP ou HTTPS. 
 
 Não há relação financeira ou comercial envolvida nesse projeto.
+
+Su Store está disponível para ser visualizado aqui: http://magnaterra.com.br/sustore/
 
